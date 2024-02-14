@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1242" height="1518">
+ <!-- Created with Image Occlusion Enhanced -->
+ <g>
+  <title>Labels</title>
+ </g>
+ <g>
+  <title>Masks</title>
+  <rect id="f6c91b94ead64c51b266a6595a6cc673-ao-1" height="81.08108" width="486.48651" y="0.91899" x="439.08104" stroke="#2D2D2D" fill="#0203ff"/>
+  <rect id="f6c91b94ead64c51b266a6595a6cc673-ao-2" height="59.45946" width="318.91893" y="173.89197" x="706.64862" stroke="#2D2D2D" fill="#0203ff"/>
+  <rect id="f6c91b94ead64c51b266a6595a6cc673-ao-3" height="56.75676" width="240.54055" y="211.72981" x="420.16212" stroke="#2D2D2D" fill="#0203ff"/>
+  <rect id="f6c91b94ead64c51b266a6595a6cc673-ao-4" height="62.16217" width="167.56758" y="576.59469" x="120.1621" stroke="#2D2D2D" fill="#0203ff"/>
+  <rect id="f6c91b94ead64c51b266a6595a6cc673-ao-5" height="67.56757" width="205.40542" y="684.70281" x="93.13508" stroke="#2D2D2D" fill="#0203ff"/>
+  <rect id="f6c91b94ead64c51b266a6595a6cc673-ao-6" height="56.75676" width="259.45947" y="854.97309" x="25.5675" stroke="#2D2D2D" fill="#0203ff"/>
+  <rect id="f6c91b94ead64c51b266a6595a6cc673-ao-7" height="62.16217" width="202.70271" y="1292.81095" x="209.3513" stroke="#2D2D2D" fill="#0203ff"/>
+  <rect id="f6c91b94ead64c51b266a6595a6cc673-ao-8" height="54.05406" width="191.8919" y="1322.54068" x="460.70266" stroke="#2D2D2D" fill="#0203ff"/>
+  <rect stroke="#2D2D2D" id="f6c91b94ead64c51b266a6595a6cc673-ao-9" height="72.97299" width="232.43244" y="1282.00014" x="774.21619" fill="#ff0200" class="qshape"/>
+  <rect id="f6c91b94ead64c51b266a6595a6cc673-ao-10" height="83.78379" width="197.29731" y="1019.83796" x="1025.56755" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke="#2D2D2D" fill="#0203ff"/>
+  <rect id="f6c91b94ead64c51b266a6595a6cc673-ao-11" height="121.62163" width="208.10812" y="644.16227" x="1030.97296" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke="#2D2D2D" fill="#0203ff"/>
+  <rect id="f6c91b94ead64c51b266a6595a6cc673-ao-12" height="105.40541" width="210.81082" y="422.54063" x="1025.56755" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke="#2D2D2D" fill="#0203ff"/>
+ </g>
+</svg>

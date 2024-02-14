@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1160" height="1132">
+ <!-- Created with Image Occlusion Enhanced -->
+ <g>
+  <title>Labels</title>
+ </g>
+ <g>
+  <title>Masks</title>
+  <rect id="50a1bc52192c4fde8d5e3691d40e077a-ao-1" height="26.53061" width="83.67347" y="661.87757" x="133.87747" stroke="#2D2D2D" fill="#0203ff"/>
+  <rect stroke="#2D2D2D" id="50a1bc52192c4fde8d5e3691d40e077a-ao-2" height="30.61224" width="310.20409" y="698.61228" x="144.08155" fill="#0203ff"/>
+  <rect id="50a1bc52192c4fde8d5e3691d40e077a-ao-3" height="32.65306" width="244.89796" y="729.22451" x="142.04074" stroke="#2D2D2D" fill="#0203ff"/>
+  <rect id="50a1bc52192c4fde8d5e3691d40e077a-ao-4" height="26.53061" width="293.87755" y="763.91839" x="144.08155" stroke="#2D2D2D" fill="#0203ff"/>
+  <rect id="50a1bc52192c4fde8d5e3691d40e077a-ao-5" height="34.69388" width="377.55103" y="794.53064" x="142.04074" stroke="#2D2D2D" fill="#0203ff"/>
+  <rect id="50a1bc52192c4fde8d5e3691d40e077a-ao-6" height="30.61225" width="255.10204" y="831.26533" x="144.08155" stroke="#2D2D2D" fill="#0203ff"/>
+  <rect id="50a1bc52192c4fde8d5e3691d40e077a-ao-7" height="26.53061" width="251.02041" y="863.91839" x="144.08155" stroke="#2D2D2D" fill="#0203ff"/>
+  
+  <rect id="50a1bc52192c4fde8d5e3691d40e077a-ao-9" height="28.57143" width="232.65306" y="931.26533" x="144.08155" stroke="#2D2D2D" fill="#0203ff"/>
+  <rect id="50a1bc52192c4fde8d5e3691d40e077a-ao-10" height="40.81633" width="475.51021" y="959.83676" x="154.28563" stroke="#2D2D2D" fill="#0203ff"/>
+  <rect stroke="#2D2D2D" id="50a1bc52192c4fde8d5e3691d40e077a-ao-11" height="32.65306" width="316.32652" y="998.61227" x="156.32647" fill="#0203ff"/>
+  <rect stroke="#2D2D2D" id="50a1bc52192c4fde8d5e3691d40e077a-ao-12" height="30.61224" width="193.87755" y="1031.26534" x="154.28564" fill="#0203ff"/>
+  <rect id="50a1bc52192c4fde8d5e3691d40e077a-ao-13" height="28.57143" width="238.77551" y="1065.95921" x="156.32645" stroke="#2D2D2D" fill="#0203ff"/>
+  <rect id="50a1bc52192c4fde8d5e3691d40e077a-ao-14" height="61.22449" width="230.61225" y="610.85717" x="886.9387" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke="#2D2D2D" fill="#0203ff"/>
+ </g>
+</svg>
